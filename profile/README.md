@@ -4,4 +4,4 @@ Selfmail is an (completely) open source email provider. It's not just a normal e
 
 **Currently**
 
-Currently, I'm creating [trash.company](https://github.com/selfmail/trash) a simple temp email app, and [selfmail](https://selfmail.app), the open-source email provider.
+Currently, I'm creating [trash.company](https://github.com/selfmail/trash) a simple temp email app, [selfmail](https://selfmail.app), the open-source email provider and [Brösel](https://brosel.dev), the minimal fullstack web framework.
