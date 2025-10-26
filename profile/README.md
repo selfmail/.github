@@ -1,7 +1,3 @@
 **Selfmail**
 
-Selfmail is an (completely) open source email provider. It's not just a normal email client, it's more an entire email solution, for yourself, your business and side projects. Create workspaces, invite others, and collaberate on email. Selfmail is selfhostable and provides a good free-tier. It's currently in an early stage of development.
-
-**Currently**
-
-Currently, I'm creating [trash.company](https://github.com/selfmail/trash) a simple temp email app, [selfmail](https://selfmail.app), the open-source email provider and [Brösel](https://brosel.dev), the minimal fullstack web framework.
+Selfmail is a free, business first email provider. The entire platform is made for SaaS companies, local businesses and agencies. Use custom domains, filter through thousands of emails, and automate recurring tasks with a simple API and custom workflow builder. 
